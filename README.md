@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Warsha,
-I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, AI 🚀 NLP 🆕 and Innovation 🤖
+
+
+
+- 🔭 I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, AI 🚀 NLP 🆕 and Innovation 🤖
+- 🌱 I’m interested in all things data:  Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
+- ⚡ Fun fact:  I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+
 
 <!--
 **warsha10/warsha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
