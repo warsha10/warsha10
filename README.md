@@ -3,8 +3,8 @@
                                “Data that is loved tends to survive.”  -Kurt Bollacker
 
 
-- 🔭 I like automating things, building pipelines and improving efficiency and performance. 
-- I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, AI 🚀 NLP 🆕 and Innovation 🤖
+- 🔭 I like automating things and improving efficiency and performance. 
+-    I am a Strong Advocate for 📜 open source, AI 🚀 NLP 🆕 and Innovation 🤖
 - 🌱 I’m interested in all things data:  Data Science and Engineering, AI, Machine Learning, NLP, Deep Learning and Computer Vision
 - ⚡ Fun fact:  I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 
